@@ -1,2 +1,2 @@
 # Website-Discussions
-Reposiory for personal website discussions
+Repository for personal website discussions
